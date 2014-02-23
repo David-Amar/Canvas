@@ -7,7 +7,7 @@ It had been difficult for designers to get hands on building the product with th
 With Canvas, creating stunning animations requires zero lines of code, trendy effects like the Parallax headers, Sticky sections, Blurred Backgrounds, will be as simple as few lines of code changes.
 
 Demo App
-==================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++==================================================================================================================
 
 ![](http://f.cl.ly/items/350X372e2i1x2y2A1h0K/canvas-animation.gif)
 
